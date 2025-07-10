@@ -30,7 +30,7 @@ with open("output_with_signature", "wb") as f:
     f.write(file_content)
 ```
 
-You can replace the `magic_bytes` value with any of the signatures from [`file_signatures_python3.md`](file_signatures_python3.md).
+You can replace the `magic_bytes` value with any of the signatures from [`Python3 File Signatures`](file-signatures-python3.md).
 
 ## 📄 File Signatures
 
