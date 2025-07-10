@@ -34,7 +34,7 @@ You can replace the `magic_bytes` value with any of the signatures from [`file_s
 
 ## 📄 File Signatures
 
-- [`file_signatures_python3.md`](file_signatures_python3.md): Complete Markdown table with:
+- [`Python3 File Signatures`](file-signatures-python3.md): Complete Markdown table with:
   - Offset
   - File Extension(s)
   - Description
