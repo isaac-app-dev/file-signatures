@@ -30,11 +30,11 @@ with open("output_with_signature", "wb") as f:
     f.write(file_content)
 ```
 
-You can replace the `magic_bytes` value with any of the signatures from [`Python3 File Signatures`](file-signatures-python3.md).
+You can replace the `magic_bytes` value with any of the signatures from [`Python3 Hex Signature Table`](file-signatures-python3.md).
 
 ## 📄 File Signatures
 
-- [`Python3 File Signatures`](file-signatures-python3.md): Complete Markdown table with:
+- [`Python3 Hex Signature Table`](file-signatures-python3.md): Complete Markdown table with:
   - Offset
   - File Extension(s)
   - Description

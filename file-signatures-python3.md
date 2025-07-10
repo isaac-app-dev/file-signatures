@@ -1,5 +1,5 @@
 | Offset | Extension | Description | Python3 Hex Signature |
-|--------|-----------|-------------|------------------------|
+|--------|-----------|-------------|:------------------------|
 | 0 | txt others | UTF-16BE byte order mark, commonly seen in text files. [ 28 ] [ 29 ] [ 30 ] | `b"\xFE\xFF"` |
 | 0 | - | JKS Javakey Store [ 32 ] | `b"\xFE\xED\xFE\xED"` |
 | 0 | zoo | Zoo (file format) | `b"\x5A\x4F\x4F"` |
