@@ -1,4 +1,4 @@
-# File Signatures for Python3 (Magic Bytes)
+# File Signatures (Magic Bytes)
 
 This repository contains a Markdown table of common file signatures (magic bytes) and their corresponding Python 3 byte strings. This is useful for:
 
